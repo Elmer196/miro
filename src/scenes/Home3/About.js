@@ -24,7 +24,7 @@ function About() {
                                         <span>I am Elmer Hernandez.</span>
                                     </h3>
                                     <div className="divider divider-1"></div>
-                                    <p>I am 22 years old with about two years of computer science experience and currently working on getting certified as a full stack web developer through the University of Texas at Austin. This includes knowledge in HTML, CSS, JavaScript, C++, jQuery, BootStrap, GitHub, Node, React, MySQL and other databases. I am well versed on all four languages but JavaScript is the one I specialize and enjoy the most. Besides that, I am from Los Angeles, CA but have lived in Houston, TX for a majority of my life. I have a passion for basketball, cars, and business. Thank y'all for visitng Hernan Web Solutions, and feel free to reach out.</p>
+                                    <p>I am 22 years old with about two years of computer science experience and currently working on getting certified as a full stack web developer through the University of Texas at Austin. This includes knowledge in HTML, CSS, JavaScript, C++, jQuery, BootStrap, GitHub, Node, React, MySQL and other databases. I am well versed on all four languages but JavaScript is the one I specialize and enjoy the most. Besides that, I am from Los Angeles, CA but have lived in Houston, TX for a majority of my life. I have a passion for basketball, cars, and business. Thank y'all for visiting Hernan Web Solutions, and feel free to reach out.</p>
                                 </header>
                                 <Row className="pt-30">
                                     <Col xs={12} sm={12} md={6}>
