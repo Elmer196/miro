@@ -57,7 +57,7 @@ const experience = [
     {
         title: "Bartender/Server",
         subtitle: "Dish Society | Katy",
-        description: "The restauarnt industry can be so draining and tough but wow has it changed my life. My ability to talk to people and make friends and connections has brought me a long way. I owe this to the restauarant business.",
+        description: "The restaurant industry can be so draining and tough but wow has it changed my life. My ability to talk to people and make friends and connections has brought me a long way. I owe this to the restauarant business.",
         date: "(2019-Currently)",
         icon: "ti-heart",
     }

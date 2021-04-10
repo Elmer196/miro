@@ -4,18 +4,6 @@ import { Container } from "react-grid-system";
 
 const service = [
     {
-        title: "GRAPHIC DESIGN",
-        subtitle: "If you can imagine it, we can design it. We are dedicated and proud of our graphic design team",
-        link: "/service-details",
-        icon: "ti-ruler-alt-2",
-    },
-    {
-        title: "UI/UX DESIGN",
-        subtitle: "Anybody who comes across your page will feel at home and comfortable on your website",
-        link: "/service-details",
-        icon: "ti-ruler-pencil",
-    },
-    {
         title: "WEB DEVELOPMENT",
         subtitle: "Our pages are always smooth and streamlined. From the front end to the back end.",
         link: "/service-details",
@@ -26,6 +14,18 @@ const service = [
         subtitle: "Even if we do not offer a particular solution ourselves, we will help you find and attain it for your business.",
         link: "/service-details",
         icon: "ti-cup",
+    },
+    {
+        title: "GRAPHIC DESIGN",
+        subtitle: "If you can imagine it, we can design it. We are dedicated and proud of our graphic design team",
+        link: "/service-details",
+        icon: "ti-ruler-alt-2",
+    },
+    {
+        title: "UI/UX DESIGN",
+        subtitle: "Anybody who comes across your page will feel at home and comfortable on your website",
+        link: "/service-details",
+        icon: "ti-ruler-pencil",
     },
     {
         title: "CREATIVITY",

@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.a93609aa.chunk.css",
-    "main.js": "/static/js/main.efb50eae.chunk.js",
-    "main.js.map": "/static/js/main.efb50eae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ad1be000.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ad1be000.js.map",
-    "static/css/2.366b4564.chunk.css": "/static/css/2.366b4564.chunk.css",
-    "static/js/2.7cde882a.chunk.js": "/static/js/2.7cde882a.chunk.js",
-    "static/js/2.7cde882a.chunk.js.map": "/static/js/2.7cde882a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0ddf13ada304764128c4921aa5256ada.js": "/precache-manifest.0ddf13ada304764128c4921aa5256ada.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.366b4564.chunk.css.map": "/static/css/2.366b4564.chunk.css.map",
-    "static/css/main.a93609aa.chunk.css.map": "/static/css/main.a93609aa.chunk.css.map",
-    "static/js/2.7cde882a.chunk.js.LICENSE.txt": "/static/js/2.7cde882a.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/slick.f97e3bbf.svg"
+    "main.css": "/hernanwebsolutions.com/static/css/main.a93609aa.chunk.css",
+    "main.js": "/hernanwebsolutions.com/static/js/main.4eb27268.chunk.js",
+    "main.js.map": "/hernanwebsolutions.com/static/js/main.4eb27268.chunk.js.map",
+    "runtime-main.js": "/hernanwebsolutions.com/static/js/runtime-main.f1840a93.js",
+    "runtime-main.js.map": "/hernanwebsolutions.com/static/js/runtime-main.f1840a93.js.map",
+    "static/css/2.0fea6c9b.chunk.css": "/hernanwebsolutions.com/static/css/2.0fea6c9b.chunk.css",
+    "static/js/2.7cde882a.chunk.js": "/hernanwebsolutions.com/static/js/2.7cde882a.chunk.js",
+    "static/js/2.7cde882a.chunk.js.map": "/hernanwebsolutions.com/static/js/2.7cde882a.chunk.js.map",
+    "index.html": "/hernanwebsolutions.com/index.html",
+    "precache-manifest.f9d9d587ad1d32b72459727b7cac1468.js": "/hernanwebsolutions.com/precache-manifest.f9d9d587ad1d32b72459727b7cac1468.js",
+    "service-worker.js": "/hernanwebsolutions.com/service-worker.js",
+    "static/css/2.0fea6c9b.chunk.css.map": "/hernanwebsolutions.com/static/css/2.0fea6c9b.chunk.css.map",
+    "static/css/main.a93609aa.chunk.css.map": "/hernanwebsolutions.com/static/css/main.a93609aa.chunk.css.map",
+    "static/js/2.7cde882a.chunk.js.LICENSE.txt": "/hernanwebsolutions.com/static/js/2.7cde882a.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/hernanwebsolutions.com/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad1be000.js",
-    "static/css/2.366b4564.chunk.css",
+    "static/js/runtime-main.f1840a93.js",
+    "static/css/2.0fea6c9b.chunk.css",
     "static/js/2.7cde882a.chunk.js",
     "static/css/main.a93609aa.chunk.css",
-    "static/js/main.efb50eae.chunk.js"
+    "static/js/main.4eb27268.chunk.js"
   ]
 }
