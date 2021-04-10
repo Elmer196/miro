@@ -8,88 +8,56 @@ import Headline from "../../components/common/Headline";
 
 const portfolio = [
     {
-        name: "All Worls",
+        name: "All Work",
         items: [
             {
                 id: 0,
-                title: "Crearive Design",
-                link: "/portfolio-details",
+                title: "Weather App",
+                link: "https://elmer196.github.io/4elmer196.github.io/",
                 subtitle: "Web Design",
                 src: "/assets/images/portfolio/3-1.jpg",
                 thumbnail: "/assets/images/portfolio/3-1.jpg",
             },
             {
                 id: 1,
-                title: "Crearive Design",
-                link: "/portfolio-details",
+                title: "Cocktail on the Run",
+                link: "https://afam-26.github.io/Cocktail-on-the-run/",
                 subtitle: "Web Design",
                 src: "/assets/images/portfolio/3-2.jpg",
                 thumbnail: "/assets/images/portfolio/3-2.jpg",
             },
             {
                 id: 2,
-                title: "Crearive Design",
-                link: "/portfolio-details",
+                title: "Work Day Scheduler",
+                link: "https://elmer196.github.io/3elmer196.github.io/",
                 subtitle: "Web Design",
                 src: "/assets/images/portfolio/3-3.jpg",
                 thumbnail: "/assets/images/portfolio/3-3.jpg",
             },
             {
                 id: 3,
-                title: "Crearive Design",
+                title: "Barber Booker",
                 subtitle: "Web Design",
-                link: "/portfolio-details",
+                link: "https://barber-booker.herokuapp.com/",
                 src: "/assets/images/portfolio/3-4.jpg",
                 thumbnail: "/assets/images/portfolio/3-4.jpg",
             },
             {
                 id: 4,
-                title: "Crearive Design",
+                title: "Notetaker",
                 subtitle: "Mobile Apps",
-                link: "/portfolio-details",
+                link: "https://notetakerelmer.herokuapp.com/notes",
                 src: "/assets/images/portfolio/3-5.jpg",
                 thumbnail: "/assets/images/portfolio/3-5.jpg",
             },
             {
                 id: 5,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Mobile Apps",
-                link: "/portfolio-details",
+                link: "https://github.com/Elmer196/EmployeeTracker",
                 src: "/assets/images/portfolio/3-6.jpg",
                 thumbnail: "/assets/images/portfolio/3-6.jpg",
-            },
-            {
-                id: 6,
-                title: "Crearive Design",
-                subtitle: "Mobile Apps",
-                link: "/portfolio-details",
-                src: "/assets/images/portfolio/3-7.jpg",
-                thumbnail: "/assets/images/portfolio/3-7.jpg",
-            },
-            {
-                id: 7,
-                title: "Crearive Design",
-                subtitle: "Branding",
-                link: "/portfolio-details",
-                src: "/assets/images/portfolio/3-8.jpg",
-                thumbnail: "/assets/images/portfolio/3-8.jpg",
-            },
-            {
-                id: 8,
-                title: "Crearive Design",
-                subtitle: "Branding",
-                link: "/portfolio-details",
-                src: "/assets/images/portfolio/3-9.jpg",
-                thumbnail: "/assets/images/portfolio/3-9.jpg",
-            },
-            {
-                id: 9,
-                title: "Crearive Design",
-                subtitle: "Branding",
-                link: "/portfolio-details",
-                src: "/assets/images/portfolio/3-10.jpg",
-                thumbnail: "/assets/images/portfolio/3-10.jpg",
-            },
+            }
         ],
     },
     {
@@ -97,7 +65,7 @@ const portfolio = [
         items: [
             {
                 id: 0,
-                title: "Crearive Design",
+                title: "Creative Design",
                 link: "/portfolio-details",
                 subtitle: "Web Design",
                 src: "/assets/images/portfolio/3-1.jpg",
@@ -105,7 +73,7 @@ const portfolio = [
             },
             {
                 id: 1,
-                title: "Crearive Design",
+                title: "Creative Design",
                 link: "/portfolio-details",
                 subtitle: "Web Design",
                 src: "/assets/images/portfolio/3-2.jpg",
@@ -113,7 +81,7 @@ const portfolio = [
             },
             {
                 id: 2,
-                title: "Crearive Design",
+                title: "Creative Design",
                 link: "/portfolio-details",
                 subtitle: "Web Design",
                 src: "/assets/images/portfolio/3-3.jpg",
@@ -121,7 +89,7 @@ const portfolio = [
             },
             {
                 id: 3,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Web Design",
                 link: "/portfolio-details",
                 src: "/assets/images/portfolio/3-4.jpg",
@@ -134,7 +102,7 @@ const portfolio = [
         items: [
             {
                 id: 4,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Mobile Apps",
                 link: "/portfolio-details",
                 src: "/assets/images/portfolio/3-5.jpg",
@@ -142,7 +110,7 @@ const portfolio = [
             },
             {
                 id: 5,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Mobile Apps",
                 link: "/portfolio-details",
                 src: "/assets/images/portfolio/3-6.jpg",
@@ -150,7 +118,7 @@ const portfolio = [
             },
             {
                 id: 6,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Mobile Apps",
                 link: "/portfolio-details",
                 src: "/assets/images/portfolio/3-7.jpg",
@@ -163,7 +131,7 @@ const portfolio = [
         items: [
             {
                 id: 7,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Branding",
                 link: "/portfolio-details",
                 src: "/assets/images/portfolio/3-8.jpg",
@@ -171,7 +139,7 @@ const portfolio = [
             },
             {
                 id: 8,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Branding",
                 link: "/portfolio-details",
                 src: "/assets/images/portfolio/3-9.jpg",
@@ -179,7 +147,7 @@ const portfolio = [
             },
             {
                 id: 9,
-                title: "Crearive Design",
+                title: "Creative Design",
                 subtitle: "Branding",
                 link: "/portfolio-details",
                 src: "/assets/images/portfolio/3-10.jpg",

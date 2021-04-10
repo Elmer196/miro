@@ -5,40 +5,34 @@ import { Container } from "react-grid-system";
 const service = [
     {
         title: "GRAPHIC DESIGN",
-        subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore",
+        subtitle: "If you can imagine it, we can design it. We are dedicated and proud of our graphic design team",
         link: "/service-details",
         icon: "ti-ruler-alt-2",
     },
     {
         title: "UI/UX DESIGN",
-        subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore",
+        subtitle: "Anybody who comes across your page will feel at home and comfortable on your website",
         link: "/service-details",
         icon: "ti-ruler-pencil",
     },
     {
-        title: "WEB DESIGN",
-        subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore",
+        title: "WEB DEVELOPMENT",
+        subtitle: "Our pages are always smooth and streamlined. From the front end to the back end.",
         link: "/service-details",
         icon: "ti-paint-bucket",
     },
     {
-        title: "MOBILE APPS",
-        subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore",
+        title: "BUSINESS CONSULTING",
+        subtitle: "Even if we do not offer a particular solution ourselves, we will help you find and attain it for your business.",
         link: "/service-details",
         icon: "ti-cup",
     },
     {
         title: "CREATIVITY",
-        subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore",
+        subtitle: "My team is willing and able to come up with ideas to help design and develop need be. We are here for you!",
         link: "/service-details",
         icon: "ti-image",
-    },
-    {
-        title: "GRAPHIC DESIGN",
-        subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit incididunt ut labore et dolore",
-        link: "/service-details",
-        icon: "ti-brush-alt",
-    },
+    }
 ];
 
 function Service() {
