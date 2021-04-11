@@ -50,7 +50,7 @@ const experience = [
     {
         title: "Head Front and Back-end Developer",
         subtitle: "Hernan Web Solutions | Houston",
-        description: "I'll be honest here. I have no working experience in the world of web and software development. I'm still in school! However, I am going all in as the owner and developer at Hernan Web Solutions. I'm hoping to bring as much value to as many businesses possible.",
+        description: "Currently going all in as the owner and main developer at Hernan Web Solutions. I'm hoping to bring as much value to as many businesses possible.",
         date: "(2021-Beyond)",
         icon: "ti-pencil-alt",
     },

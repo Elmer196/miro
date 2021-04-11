@@ -28,8 +28,8 @@ const service = [
         icon: "ti-ruler-pencil",
     },
     {
-        title: "CREATIVITY",
-        subtitle: "My team is willing and able to come up with ideas to help design and develop need be. We are here for you!",
+        title: "MARKETING",
+        subtitle: "Without marketing, a business is as good as dead. SEO, PPC or whatever it may be, our team will find the right solution for you",
         link: "/service-details",
         icon: "ti-image",
     }
