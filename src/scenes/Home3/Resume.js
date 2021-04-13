@@ -40,7 +40,7 @@ const education = [
     {
         title: "University of Texas at Austin",
         subtitle: "Certified Full Stack Web Developer | Texas",
-        description: "Unfortunately never got to attend the University in person (Covid-19 🙄), but I am so grateful for the school teaching me everything I know about web development.",
+        description: "2 semesters of the web developing program through the Univeristy of Texas at Austin and I could not be more grateful for it. Gave me not only the knowledge for my web solutions business but the confidence as well.",
         date: "(2020-2021)",
         icon: "ti-cup",
     },
