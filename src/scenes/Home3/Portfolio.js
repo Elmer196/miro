@@ -146,8 +146,8 @@ const portfolio = [
                 title: "Creative Design",
                 subtitle: "Graphic Design",
                 link: "/portfolio-details",
-                src: "/assets/images/portfolio/6-9.jpg",
-                thumbnail: "/assets/images/portfolio/6-9.jpg",
+                src: "/assets/images/portfolio/11-2.jpg",
+                thumbnail: "/assets/images/portfolio/11-2.jpg",
             },
         ],
     },
@@ -176,7 +176,7 @@ const images = [
         src: "/assets/images/portfolio/3-7.jpg",
     },
     {
-        src: "/assets/images/portfolio/3-8.jpg",
+        src: "/assets/images/portfolio/11-2.jpg",
     },
     {
         src: "/assets/images/portfolio/3-9.jpg",
